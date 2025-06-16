@@ -1,0 +1,169 @@
+{
+  "personal": {
+    "name": "Patrick Chen",
+    "title": "Software Engineer / Data Scientist",
+    "email": "patrick.chen@example.com",
+    "phone": "+33 6 12 34 56 78",
+    "location": "Paris, France",
+    "bio": "Passionate software engineer with expertise in web development, machine learning, and data science. Experienced in building scalable applications and implementing AI solutions.",
+    "social": {
+      "github": "https://github.com/patrickchen",
+      "linkedin": "https://linkedin.com/in/patrickchen",
+      "twitter": "https://twitter.com/patrickchen"
+    }
+  },
+  "education": [
+    {
+      "institution": "\u00c9cole Polytechnique",
+      "degree": "Master's degree, Computer Science",
+      "date": "2018 - 2020",
+      "description": "Specialized in Artificial Intelligence and Machine Learning"
+    },
+    {
+      "institution": "Universit\u00e9 Paris-Saclay",
+      "degree": "Bachelor's degree, Computer Science",
+      "date": "2015 - 2018",
+      "description": "Focus on Software Engineering and Algorithms"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Tech Innovations Inc.",
+      "position": "Senior Software Engineer",
+      "date": "2021 - Present",
+      "description": [
+        "Led development of machine learning models for predictive analytics",
+        "Implemented CI/CD pipelines reducing deployment time by 40%",
+        "Architected scalable backend solutions using Node.js and Python",
+        "Mentored junior developers and conducted technical interviews"
+      ]
+    },
+    {
+      "company": "Data Solutions Ltd.",
+      "position": "Data Scientist",
+      "date": "2020 - 2021",
+      "description": [
+        "Developed NLP algorithms for sentiment analysis on customer reviews",
+        "Created data visualization dashboards using D3.js and Tableau",
+        "Optimized database queries resulting in 30% performance improvement",
+        "Collaborated with product teams to implement data-driven features"
+      ]
+    },
+    {
+      "company": "Web Creators",
+      "position": "Frontend Developer Intern",
+      "date": "2019 - 2020",
+      "description": [
+        "Developed responsive user interfaces using React and TypeScript",
+        "Implemented state management with Redux and Context API",
+        "Collaborated in an Agile development environment",
+        "Optimized website performance achieving 95+ Lighthouse scores"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Java",
+        "C++",
+        "SQL"
+      ]
+    },
+    {
+      "category": "Web Development",
+      "items": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "HTML/CSS",
+        "GraphQL",
+        "REST API"
+      ]
+    },
+    {
+      "category": "Data Science",
+      "items": [
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-Learn",
+        "Pandas",
+        "NumPy",
+        "Data Visualization"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Git",
+        "Docker",
+        "AWS",
+        "Azure",
+        "CI/CD",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI-Powered Content Recommender",
+      "description": "Built a content recommendation engine using collaborative filtering and deep learning techniques",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Flask",
+        "MongoDB",
+        "ReactJS"
+      ],
+      "link": "https://github.com/patrickchen/content-recommender"
+    },
+    {
+      "name": "E-commerce Platform",
+      "description": "Developed a full-stack e-commerce platform with payment processing and inventory management",
+      "technologies": [
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Stripe API",
+        "Docker"
+      ],
+      "link": "https://github.com/patrickchen/e-commerce-platform"
+    },
+    {
+      "name": "Real-time Chat Application",
+      "description": "Created a real-time messaging app with features like group chats, file sharing, and end-to-end encryption",
+      "technologies": [
+        "React",
+        "Socket.io",
+        "Express",
+        "Redis",
+        "AWS"
+      ],
+      "link": "https://github.com/patrickchen/chat-app"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "French",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Mandarin",
+      "proficiency": "Native"
+    }
+  ],
+  "interests": [
+    "Machine Learning",
+    "Open Source Contribution",
+    "Mobile App Development",
+    "UI/UX Design",
+    "Blockchain Technology"
+  ]
+}
