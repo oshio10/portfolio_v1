@@ -1,0 +1,150 @@
+{
+  "personal": {
+    "name": "Patrick Chen",
+    "title": "IT developer",
+    "email": "patricksunchen@gmail.com",
+    "phone": "+33 7 67 64 52 37",
+    "location": "Saint-Denis, France",
+    "bio": "Passionate with expertise in development, machine learning, and data science. Experienced in building scalable applications and implementing solutions.",
+    "social": {
+      "github": "https://github.com/oshio10",
+      "linkedin": "https://www.linkedin.com/in/patrick-chen-769652236/",
+      "twitter": "x"
+    }
+  },
+  "education": [
+    {
+      "institution": "Sorbonne Paris Nord",
+      "degree": "BUT-informatique",
+      "date": "2021 - 2025",
+      "description": "Specialized in development"
+    },
+    {
+      "institution": "Lycée Angela Davise",
+      "degree": "scientific baccalaureate",
+      "date": "2018 - 2021",
+      "description": "specialty physics-chemistry and NSI"
+    }
+  ],
+  "experience": [
+    {
+      "company": "YRSA Communication ",
+      "position": "web developer(internship)",
+      "date": "APR. 2023 - Jun. 2023",
+      "description": [
+        "Languages ​​Used: HTML, CSS, JavaScript, and Python",
+        "During my internship, I developed websites by integrating CSS layouts and performed web scraping processes in Python, extracting structured data from links while taking into account the CSS structure of the pages."
+      ]
+    },
+    {
+      "company": "Vinci Aart Deco & Design",
+      "position": "web developer(internship)",
+      "date": "JAN. 2024 - MAR. 2024",
+      "description": [
+        "Languages ​​used: HTML, CSS, JavaScript and JSON/liquid",
+        "During my internship, I collaborated on the development of the company's main website on Shopify, designing interactive mockups, integrating essential features via Liquid and JavaScript, and optimizing the UX/UI to improve performance and user interaction."
+      ]
+    },
+    {
+      "company": "FBO HOLDING",
+      "position": "Frontend Developer(intership)",
+      "date": "April 2025 - June 2025",
+      "description": [
+        "Languages ​​used: TypeScript, SQL, Next.js 15 (App Router) / React 18, Drizzle ORM, Tailwind CSS, Node.js, npm/yarn/pnpm",
+        "During this internship, I participated in the implementation of innovative solutions around the intelligent management of products without data history, by designing methods to optimize their processing despite the absence of pre-existing data. I also contributed to the creation of dynamic and customizable dashboards, adapted to user roles in order to improve the experience and decision-making. This project was carried out using the latest web technologies, including Next.js for front-end/back-end integration, and Drizzle as a modern ORM for efficient database management."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": [
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Java",
+        "SQL"
+      ]
+    },
+    {
+      "category": "Web Development",
+      "items": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "HTML/CSS",
+        "REST API"
+      ]
+    },
+    {
+      "category": "Data Science",
+      "items": [
+        "Pandas",
+        "NumPy",
+        "Data Visualization"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Git",
+        "Docker"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "DNA Sequence Analysis Development",
+      "description": "Designed and implemented bioinformatics algorithms for codon detection and identification, using nucleotide sequence analysis and DNA motif recognition techniques.",
+      "technologies": [
+        "Python",
+        "Bioinformatics",
+        "Sequence Analysis",
+        "Algorithms"
+      ],
+      "link": "https://github.com/oshio10/Mes-projets-en-BUT-Informatique/tree/main/BUT-2/Semestre%201/ADN%2C%20ARN%2C%20codons%20et%20prot%C3%A9ines"
+    },
+    {
+      "name": "Automated Cash Register System",
+      "description": "Collaborated in a team of 5 to develop an automated cash register system featuring a dynamic control interface, responsive design, and backend processing.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP"
+      ],
+      "link": "https://github.com/oshio10/BUT-2-informatique/tree/main/Mes-projets-en-BUT-Informatique-main/Mes-projets-en-BUT-Informatique-main/Semestre%203/Caisse%20enregistre%20automatique%20pour%20le%20BDE"
+    },
+    {
+      "name": "Multimodal Car Selection Application",
+      "description": "Developed a multimodal application for car selection using Next.js for the frontend, Java for a REST API, MongoDB as the NoSQL database, and Python for data initialization and population. Enabled dynamic vehicle filtering via the API.",
+      "technologies": [
+        "Next.js",
+        "Java",
+        "MongoDB",
+        "Python",
+        "REST API"
+      ],
+      "link": "https://github.com/vizucar/vizucar.com"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    },
+    {
+      "language": "French",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Mandarin",
+      "proficiency": "Native"
+    }
+  ],
+  "interests": [
+    "Machine Learning",
+    "Sport",
+    "Anime/Manga"
+  ]
+}
