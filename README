@@ -1,0 +1,50 @@
+# 🌐 Patrick Chen – Portfolio
+
+Ce projet est un portfolio personnel développé avec **Next.js**, **TypeScript** et **TailwindCSS**.  
+Il permet de présenter des projets et d'autres informations personnelles.
+
+---
+
+## 🚀 Lancer le projet en local
+
+### 1. Pré-requis
+
+Assurez-vous d’avoir les outils suivants installés :
+
+- [Node.js](https://nodejs.org/) (version recommandée : `>=18`)
+- [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/)
+- Un terminal (Windows PowerShell, Terminal macOS, etc.)
+
+---
+
+### 2. Cloner le dépôt
+
+```bash
+git clone https://github.com/oshio10/portfolio_v1.git
+```
+
+### 3. Installer les dependences 
+
+```bash
+npm install
+# OU
+yarn install 
+```
+
+### 4. Build Le Projet
+
+```bash
+npm run build
+# OU
+yarn build
+```
+
+### 5. Lancer le serveur local
+
+```bash
+npm run dev
+# OU
+yarn dev
+```
+
+🌐 Accéder au site via http://localhost:3000
